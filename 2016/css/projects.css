@@ -1,0 +1,41 @@
+body
+{
+	padding-top: 65px; 
+}
+
+h1
+{
+	color: orange !important;
+}
+
+pushbottom
+{
+	padding-bottom: 5%;
+}
+
+.left-menu
+{
+	margin-top: 5%;
+	padding-left: 2%;
+}
+
+.menu-item, 
+.menu-item-header
+{
+	font-size: 1.25em;
+	color: grey;
+	text-shadow: none;
+}
+
+.menu-item-sub
+{
+	font-size: 1em;
+	color: grey;
+	text-shadow: none;
+}
+
+.menu-item:hover, .menu-item-sub:hover
+{
+	color: orange;
+}
+

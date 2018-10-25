@@ -1,0 +1,45 @@
+/*
+	fonts imported from google fonts
+	font-family: 'Muli', sans-serif;
+	font-family: 'Nunito', sans-serif;
+	font-family: 'Poiret One', cursive;
+*/
+
+body, html
+{
+	height: 100%;
+	font-family: 'Nunito', sans-serif;
+}
+
+h1, h2, h3, h4, h5
+{
+	font-family: 'Poiret One', cursive;
+}
+
+.bgimg-1 
+{
+  position: relative;
+  opacity: 0.65;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("../assets/splash_1819_2.png");
+  height: 50%;
+}
+
+.pushdown3
+{
+	padding-top: 3%;
+}
+
+.pushdown5
+{
+	padding-top: 5%;
+}
+
+.logo
+{
+	margin-top: 2%;
+	height: 40px;
+	width: auto;
+}

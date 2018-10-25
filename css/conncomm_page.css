@@ -1,0 +1,89 @@
+/*
+	fonts imported from google fonts
+	font-family: 'Muli', sans-serif;
+	font-family: 'Nunito', sans-serif;
+	font-family: 'Poiret One', cursive;
+*/
+
+body, html
+{
+	height: 100%;
+	font-family: 'Nunito', sans-serif;
+}
+
+h1, h2, h3, h4, h5
+{
+	font-family: 'Poiret One', cursive;
+}
+
+p
+{
+	font-size: 0.9rem;
+}
+
+li
+{
+	font-size: 0.8rem;
+}
+
+label
+{
+	font-size: 0.8rem;
+}
+
+.pushdown3
+{
+	padding-top: 3%;
+}
+
+.pushdown5
+{
+	padding-top: 5%;
+}
+
+.pushdown10
+{
+	padding-top: 10%;
+}
+
+.pushright5
+{
+	padding-left: 5%;
+}
+
+.logo
+{
+	margin-top: 2%;
+	height: 40px;
+	width: auto;
+}
+
+nav a
+{
+	font-family: 'Poiret One', cursive;
+	font-weight: 700;
+}
+
+.blockquote
+{
+	font-family: 'Poiret One', cursive;
+	font-size: 0.9em;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+.figure-caption
+{
+	font-size: 0.7rem;
+}
+
+#form-card
+{
+	padding-top: 2%;
+	padding-bottom: 2%;
+}
+
+.tab-option:hover
+{
+	background-color: rgba(23,162,184,0.2);
+}

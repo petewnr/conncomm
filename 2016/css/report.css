@@ -1,0 +1,50 @@
+body
+{
+	padding-top: 65px;
+	background-color: #333;
+}
+
+h1
+{
+	color: orange !important;
+}
+
+#project_menu
+{
+	margin-top: 10%;
+}
+
+.project_menu_item
+{
+	margin-top: 20px;
+}
+
+.project_menu_item > a
+{
+	color: white;
+	text-decoration: none;
+}
+
+.project_menu_item > a:hover
+{
+	color: orange;
+}
+
+.project_menu_item_sub
+{
+	margin-top: -10px;
+	margin-bottom: 10px;
+	padding-left: 10px;
+}
+
+.project_menu_item_sub > a
+{
+	color: white;
+	text-decoration: none;
+}
+
+.project_menu_item_sub > a:hover
+{
+	color: orange;
+}
+

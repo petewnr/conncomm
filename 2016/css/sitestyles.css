@@ -1,0 +1,26 @@
+/* general site styles */
+
+body
+{
+	padding-top: 65px; 
+}
+
+h1
+{
+	color: orange !important;
+}
+
+pushbottom
+{
+	padding-bottom: 5%;
+}
+
+pushtop
+{
+	padding-top: 5%;
+}
+
+caption
+{
+	color: grey !important;
+}
